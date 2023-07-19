@@ -2,7 +2,7 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project very great simple sample
+## Creating a project very very great simple sample
 
 If you're seeing this, you've probably already done this step. Congrats & Success!
 
